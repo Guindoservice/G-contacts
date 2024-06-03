@@ -1,0 +1,4 @@
+com\student\servlet\apprenant\Contact.class
+com\student\servlet\apprenant\JakartaRestConfiguration.class
+com\student\servlet\apprenant\resources\JakartaEE10Resource.class
+com\student\servlet\apprenant\EtudiantServlet.class
